@@ -22,8 +22,6 @@ You are new to DevOps or want to learn some DevOps tools, or you are already a D
 - **Hands-On practice**: Get basic examples for each topic so you can try out what you learn.
 - **Advanced examples**: Once you've grasped the basic concepts, exploring advanced examples will further elevate your skills.
 
-This is the **first** of my DevOps trio repositories: [devops-basics](https://github.com/tungbq/devops-basics) ↔️ [devops-practice](https://github.com/tungbq/devops-practice) ↔️ [devops-project](https://github.com/tungbq/devops-project), designed to help you learn, practice, and apply DevOps.
-
 ## Getting started :rocket:
 
 ### What is DevOps?
@@ -32,7 +30,6 @@ DevOps combines development (Dev) and operations (Ops) to increase the efficienc
 
 ### Overview
 
-- ➡️ [getting-started](./getting-started/)
 - ➡️ [DevOps toolchain](https://en.wikipedia.org/wiki/DevOps_toolchain)
 - ➡️ [roadmap.sh/devops](https://roadmap.sh/devops)
 
@@ -261,23 +258,18 @@ We cover a wide range of DevOps topics in our content library, explore them unde
     </tr>
 </table>
 
-- And **more upcoming topics...⏩** you can star/follow this repository to get more up-to-dated content ⭐
-- For additional resources to practice these tools, visit: [**devops-project**](https://github.com/tungbq/devops-project)
+
+
+
 
 ## Extra content (from other repos) :arrow_upper_right:
 
 | Item                   | Link                                                                          |
 | :--------------------- | :---------------------------------------------------------------------------- |
 | The DevOps Hub         | ☁️ [TheDevOpsHub](https://github.com/TheDevOpsHub)                            |
-| devops-practice        | 👷 [devops-practice](https://github.com/tungbq/devops-practice)               |
-| devops-project         | 🏗️ [devops-project](https://github.com/tungbq/devops-project)                 |
 | 90DaysOfDevOps         | 📆 [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)            |
 | Container Labs         | 🐳 [container-labs](https://github.com/TheDevOpsHub/container-labs)           |
-| python                 | 🐍 [python-examples](https://github.com/tungbq/python-examples)               |
 | aws-lab-with-terraform | ☁️ [aws-lab-with-terraform](https://github.com/tungbq/aws-lab-with-terraform) |
-| AWS-LearningResource   | 🧰 [AWS-LearningResource](https://github.com/tungbq/AWS-LearningResource)     |
-| bookmarks              | 🔖 [bookmarks](https://github.com/tungbq/bookmarks)                           |
 | devops-exercises       | 📚 [devops-exercises](https://github.com/bregman-arie/devops-exercises)       |
 | devops-resources       | 🔗 [devops-resources](https://github.com/bregman-arie/devops-resources)       |
 | howtheydevops          | ❔ [howtheydevops](https://github.com/bregman-arie/howtheydevops)             |
-| devops-dockerfiles     | 🏗️ [devops-dockerfiles](https://github.com/tungbq/devops-dockerfiles)         |
