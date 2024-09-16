@@ -1,0 +1,11 @@
+---
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+  - directory: "/projects/create-k8s-cluster-aws-ec2"
+    package-ecosystem: "terraform"
+    schedule:
+      interval: "weekly"
