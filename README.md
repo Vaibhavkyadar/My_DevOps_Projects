@@ -281,22 +281,3 @@ We cover a wide range of DevOps topics in our content library, explore them unde
 | devops-resources       | 🔗 [devops-resources](https://github.com/bregman-arie/devops-resources)       |
 | howtheydevops          | ❔ [howtheydevops](https://github.com/bregman-arie/howtheydevops)             |
 | devops-dockerfiles     | 🏗️ [devops-dockerfiles](https://github.com/tungbq/devops-dockerfiles)         |
-
-## Contributing
-
-- See: [CONTRIBUTING.md](./CONTRIBUTING.md)
-- If you find this repository helpful, kindly consider showing your appreciation by giving it a star ⭐ Thanks! 💖
-- Looking for the issue to work on? Check the list of our open issues [**good first issue**](https://github.com/tungbq/devops-basic/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-- Feel free to open a new issue if you want to request more content about DevOps
-
-## Contributors
-
-Thank you all for your contributions! 💖
-
-<a href="https://github.com/tungbq/devops-basics/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tungbq/devops-basics" />
-</a>
-
-## Star History ⭐
-
-[![Star History Chart](https://api.star-history.com/svg?repos=tungbq/devops-basics&type=Timeline)](https://star-history.com/#tungbq/devops-basics&Timeline)
