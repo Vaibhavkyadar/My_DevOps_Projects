@@ -31,4 +31,4 @@ This project aims to develop a Node.js application with CI/CD integration.
 
 ## 2-Continuous Integration (CI) Pipeline Setup
 
-- Check the GitHub workflow: [nodejs-cicd-pipeline.yml](https://github.com/tungbq/devops-project/blob/main/.github/workflows/nodejs-cicd-pipeline.yml)
+- Check the GitHub workflow: [nodejs-cicd-pipeline.yml](./.github/workflows/nodejs-cicd-pipeline.yml)

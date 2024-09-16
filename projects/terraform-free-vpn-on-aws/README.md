@@ -7,7 +7,7 @@ This project help you launch your own Open VPN server on AWS
 ### Introduction
 
 - Tech stack: `AWS`, `terraform`, `VPN`
-- To get basic concepts of these tools, you could visit: [**devops-basic**](https://github.com/tungbq/devops-basic) repository
+- To get basic concepts of these tools, you could visit: [**devops-basic**] repository
 
 ### Prerequisite
 
@@ -29,11 +29,8 @@ This project help you launch your own Open VPN server on AWS
 - Note the key-pair name that you created for later use. E.g: `my-new-keypair-for-demo`
 - The private key file is automatically downloaded by your browser. The base file name is the name you specified as the name of your key pair, and the file name extension is determined by the file format you chose. Save the private key file in a safe place.
 
-### 2.3-Install Terraform
 
-- Follow https://github.com/tungbq/devops-basic/tree/main/topics/terraform#installation
-
-### 2.4-Configure Terraform environment to work with AWS
+### 2.3-Configure Terraform environment to work with AWS
 
 - Check this `Prerequisites` section: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-build#prerequisites
 

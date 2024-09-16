@@ -7,7 +7,7 @@ This project help you create and connect to your own Windows instance (VM) on AW
 ### Introduction
 
 - Tech stack: `Terraform`, `AWS`, `Windows server`
-- To get basic concepts of these tools, you could visit: [**devops-basic**](https://github.com/tungbq/devops-basic) repository
+- To get basic concepts of these tools, you could visit: [**devops-basic**] repository
 - Architecture
 
   ![windows-ec2-architecture](https://docs.aws.amazon.com/images/AWSEC2/latest/WindowsGuide/images/overview_getting_started.png)
