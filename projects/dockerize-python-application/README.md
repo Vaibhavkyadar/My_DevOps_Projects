@@ -7,7 +7,7 @@ This project helps us understand and know how to dockerize an application (pytho
 ### Introduction
 
 - Tech stack: `python`, `docker`, `flask`
-- To get basic concept of these tools, you could visit: [**devops-basic**](https://github.com/tungbq/devops-basic) repository
+- To get basic concept of these tools, you could visit: [**devops-basic**](https://github.com/Vaibhavkyadar/My_DevOps_Projects/blob/main/README.md) repository
 
 ### Prerequisite
 
