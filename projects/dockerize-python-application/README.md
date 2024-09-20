@@ -16,7 +16,7 @@ This project helps us understand and know how to dockerize an application (pytho
 
 ## 1-Install docker
 
-- See: [how-to-install-docker](https://github.com/Vaibhavkyadar/My_DevOps_Projects/blob/main/DevOps_Basic/README.md)
+- See: [how-to-install-docker](/Docker%20basics/README.md)
 
 ## 2-Build the docker image
 
