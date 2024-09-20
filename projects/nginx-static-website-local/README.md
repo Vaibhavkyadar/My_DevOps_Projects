@@ -7,7 +7,7 @@ This project helps us learn Nginx and create a static website.
 ### Introduction
 
 - Tech stack: `Nginx`, `Docker`
-- To get basic knowledge about Docker, you could visit: [**Docker**](https://www.docker.com/) and [**devops-basic/docker**](https://github.com/tungbq/devops-basic/blob/main/topics/docker/README.md) repository
+- To get basic knowledge about Docker, you could visit: [**Docker**](https://www.docker.com/).
 
 ### Prerequisite
 

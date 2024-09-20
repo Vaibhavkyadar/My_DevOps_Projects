@@ -7,7 +7,7 @@ This project help you launch your own Open VPN server on AWS
 ### Introduction
 
 - Tech stack: `AWS`, `terraform`, `VPN`
-- To get basic concepts of these tools, you could visit: [**devops-basic**] repository
+
 
 ### Prerequisite
 

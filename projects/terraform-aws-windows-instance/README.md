@@ -32,11 +32,8 @@ This project help you create and connect to your own Windows instance (VM) on AW
 - Note the key-pair name that you created for later use. E.g: `my-new-keypair-for-demo`
 - The private key file is automatically downloaded by your browser. The base file name is the name you specified as the name of your key pair, and the file name extension is determined by the file format you chose. Save the private key file in a safe place.
 
-### 1.3-Install Terraform
 
-- Follow https://github.com/tungbq/devops-basic/tree/main/topics/terraform#installation
-
-### 1.4-Configure Terraform environment to work with AWS
+### 1.3-Configure Terraform environment to work with AWS
 
 - Check this `Prerequisites` section: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-build#prerequisites
 
